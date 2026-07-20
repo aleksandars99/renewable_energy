@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "renewable_energy",
+            "database": "renewable_energy_db",
+            "username": "postgres"
+        }
+    ]
+}
